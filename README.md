@@ -34,7 +34,7 @@ This app lets you:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/ujjwal1207password-generator.git
    cd password-generator
    ```
 
